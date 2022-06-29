@@ -49,12 +49,12 @@ function randomY() {
 }
 
 
-let randomZoom = setInterval(() => {
-    let zoom = random(250)
-    jumbotron.style.backgroundSize = `calc(100% + ${zoom}%)`
-    jumbotron.style.backgroundPositionX = randomX()
-    jumbotron.style.backgroundPositionY = randomY()
-    setTimeout(() => {
-        jumbotron.style.backgroundSize = '100%'
-    }, 8000)
-}, 10000)
+// let randomZoom = setInterval(() => {
+//     let zoom = random(250)
+//     jumbotron.style.backgroundSize = `calc(100% + ${zoom}%)`
+//     jumbotron.style.backgroundPositionX = randomX()
+//     jumbotron.style.backgroundPositionY = randomY()
+//     setTimeout(() => {
+//         jumbotron.style.backgroundSize = '100%'
+//     }, 6000)
+// }, 9000)
