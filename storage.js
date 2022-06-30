@@ -6,7 +6,6 @@ if (typeof (Storage) != undefined) {
         localStorage.setItem(username, generateNameGuest())
     }
 
-    const greeting = document.querySelector('#welcome h2')
     const displayUsername = document.getElementById('username')
     const pen = document.getElementById('pen')
     const save = document.getElementById('save')

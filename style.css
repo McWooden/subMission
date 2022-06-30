@@ -257,6 +257,7 @@ aside {
     display: flex;
     flex-direction: column;
     margin-top: 30px;
+    margin-bottom: 30px;
 }
 .nav-aside a {
     width: 60%;
@@ -328,6 +329,9 @@ footer a:hover {
     margin: 10px 20px;
     width: fit-content;
     font-size: 1em;
+}
+#welcome #greeting {
+    color: #fff;
 }
 #welcome span {
     color: #14FFEC;
@@ -414,10 +418,12 @@ footer a:hover {
     .search-aside input {
         outline: none;
         border: none;
+        padding: 5px 10px;
         width: 80%;
+        font-size: .5em;
     }
     .search-aside img {
-        margin-left: 10px;
+        margin: 0 5px;
         width: 20%;
     }
     .mobile-search {
