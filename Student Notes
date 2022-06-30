@@ -1,0 +1,11 @@
+Hai reviewer saya membuat 2 file Javascript
+
+>> script.js
+Javascript ini memiliki 3 fitur yang tersedia
+1. mengubah posisi background, menggunakan setInterval untuk mengulang fungsi setiap sekian kali
+2. minimize aside, tombol minimize ini saat di klik dia akan merubah aside menjadi lebih kecil sizenya
+3. mengubah url img, img yang ada di artikel bisa mengganti gambarnya kalo di klik
+
+>> storage.js 
+Javascript ini menggunakan local storage untuk menyimpan nama pengguna
+cuman pengen pake aja web storage, baru tau dari dicoding hehe
