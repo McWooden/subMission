@@ -245,12 +245,12 @@ aside {
 }
 .nama {
     text-align: center;
-    font-size: calc(.8vw + .5em);
+    font-size: 1.2em;
 }
 .title {
     text-align: center;
     font-weight: 200;
-    font-size: calc(.6vw + .4em);
+    font-size: .7em;
 }
 
 .nav-aside {
@@ -261,7 +261,7 @@ aside {
 }
 .nav-aside a {
     width: 60%;
-    font-size: calc(1vw + .4em);
+    font-size:  1em;
     margin: 0 auto;
     text-decoration: none;
     color: #212121;
